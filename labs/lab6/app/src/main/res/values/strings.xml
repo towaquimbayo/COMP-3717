@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lab7TowaQuimbayo</string>
+    <string-array name="starwarsNames">
+        <item>Ahsoka</item>
+        <item>BB8</item>
+        <item>C3P0</item>
+        <item>Chewbacca</item>
+        <item>Grogu</item>
+        <item>Jabba</item>
+        <item>Kilo</item>
+        <item>Trooper</item>
+        <item>Yoda</item>
+    </string-array>
+</resources>
